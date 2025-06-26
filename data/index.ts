@@ -158,6 +158,12 @@ export const companies = [
     img: "ts.svg",
     nameImg: "/tsname.svg",
   },
+  {
+    id: 7,
+    name: "Java",
+    img: "javafull.svg",
+    nameImg: "/javafull.svg",
+  }
 
 ];
 
